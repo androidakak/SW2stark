@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\andworkspace\ClockWidgetx\clockWidgetAnalog\build\intermediates\exploded-aar\ClockWidgetx\smartExtensionAPI\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ef04b1cb8f323d0771b9b812de4269988ed0d04c">
+        <dex dex="F:\andworkspace\ClockWidgetx\clockWidgetAnalog\build\intermediates\pre-dexed\debug\classes-e9ea6708e5ca99d7d9972fc3c7e04d551469f112.jar" />
+    </item>
+    <item
+        jar="F:\andworkspace\ClockWidgetx\clockWidgetAnalog\build\intermediates\exploded-aar\ClockWidgetx\smartExtensionUtils\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4c3e950b479db818a2f20e0a1e154733550d1224">
+        <dex dex="F:\andworkspace\ClockWidgetx\clockWidgetAnalog\build\intermediates\pre-dexed\debug\classes-d86d53e11c3cf070d0a2c7124d2aa5789c444734.jar" />
+    </item>
+
+</items>

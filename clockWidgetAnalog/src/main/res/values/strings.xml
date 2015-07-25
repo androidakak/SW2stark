@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    
+    <string name="app_name">Simple Stark Analog</string>
+    <string name="email">android.ak.ak@gmail.com</string>
+    <string name="more_address">http://forum.xda-developers.com/smartwatch-2/themes-apps/watchfaces-collection-updated-16-1-2015-t3004492</string>
+    <string name="preference_info">Analog clock watchface widget Developed by Akshay Kumar</string>
+    
+    
+    <string name="help">"To set it as your watchface:\n-Open the SmartWatch2 app \n-Edit watch faces \n-New \n-Clocks \n-Find the widget \n-Drag it into the watch editor \n-Enjoy"</string>
+    <string name="email_hint">Type your message here</string>
+	<string name="email_send_btn">Send with..</string>
+	<string name="help_btn">Help</string>
+	<string name="more_btn">More WatchFaces</string>
+	<string name="email_btn">Contact me</string>
+	<string name="learn_btn">Make your own watch faces</string>
+</resources>

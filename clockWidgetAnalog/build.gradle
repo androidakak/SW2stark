@@ -1,0 +1,23 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 'Sony:Sony Add-on SDK 3.0:19'
+    buildToolsVersion "22.0.1"
+
+    defaultConfig {
+        applicationId "com.naheel.sw2.widget.example.Stark"
+        minSdkVersion 14
+        targetSdkVersion 18
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile project(':smartExtensionUtils')
+}
